@@ -1,7 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/itarec1988/Understanding-nighttime-CH4-signals-paper-repo.git/master)
-
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/itarec1988/Understanding-nighttime-CH4-signals-paper-repo.git/master
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/itarec1988/Understanding-nighttime-CH4-signals-paper-repo/master)
 
 Understanding nighttime methane signals at the Amazon Tall Tower Observatory (ATTO) \cf0 \kerning1\expnd0\expndtw0 \
 Sbotia et al., 2019\
